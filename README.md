@@ -21,7 +21,7 @@ weekdays are circled(with a square) each day that you succeed in your goal.
 
 7 segment battery graph
 
-10 image "icon" register that changes every five minutes
+10 image "icon" register that changes every five minutes(these are 150x120 pixel) You will want to change them likely!
 
 ability to scroll images using right up/down buttons
 
