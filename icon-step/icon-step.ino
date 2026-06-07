@@ -40,7 +40,7 @@ float lastVBAT = 3.7;
 float getStableBattery() {
 float maxVBAT = 0;
 for (int i = 0; i < 5; i++) {
-float v = getBatteryVoltage() * 2.0;
+float v = getBatteryVoltage();
 if (v > maxVBAT) maxVBAT = v;
 delay(10);
 }
